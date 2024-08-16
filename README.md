@@ -12,7 +12,7 @@ Add it in your root build.gradle at the end of repositories:
  Step 2. Add the dependency
  
 	dependencies {
-	        implementation 'com.github.batuhanerdem:keyboardlistener:Tag'
+	        implementation 'com.github.batuhanerdem:custom-navtype-generator:v1.0.0'
 	}
 
  Going to add more detailed description. This is temporary.
