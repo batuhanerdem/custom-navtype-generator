@@ -24,4 +24,4 @@ composable<Screens.ForecastScreen>(
             )
         )
 ```
-You can check [this](https://github.com/batuhanerdem/WeatherApp). project as as example.
+You can check [this](https://github.com/batuhanerdem/WeatherApp) project as an example.
